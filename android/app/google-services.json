@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801141838902",
+    "project_id": "fir-projects-fa130",
+    "storage_bucket": "fir-projects-fa130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801141838902:android:de1f58c0b7a009b4657497",
+        "android_client_info": {
+          "package_name": "com.example.rappid_note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGEn3YSS50XrrtPToAN9hEjLQlGmEYZM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
